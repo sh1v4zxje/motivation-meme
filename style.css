@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+h1{
+    font-size: 3rem;
+}
+.poster{
+    text-align: center;
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+    font-family: "Libre Baskerville", serif;
+    margin-top: 100px;
+}
+.meme{
+    border: 5px solid white;
+    width: 100%;
+}
